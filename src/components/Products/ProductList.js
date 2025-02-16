@@ -6,7 +6,7 @@ import { Container, Typography, Table, TableBody, TableCell, TableContainer, Tab
 const ProductList = () => {
   const dispatch = useDispatch();
   const { products, loading, total, currentPage } = useSelector((state) => state.product);
-  const totalPages = Math.ceil(total / 30);
+  const totalPages = Math.ceil(total / 10);
 
   const [open, setOpen] = useState(false);
   const [editMode, setEditMode] = useState(false);
