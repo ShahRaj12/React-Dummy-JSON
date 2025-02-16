@@ -1,5 +1,5 @@
 ### **Step 1: Clone the Repository**
-git clone https://github.com/your-username/react-product-management.git](https://github.com/ShahRaj12/React-Dummy-JSON.git
+git clone https://github.com/ShahRaj12/React-Dummy-JSON.git
 cd react-product-management
 
 ### **Step 2: After Cloning Install The Dependencies**
